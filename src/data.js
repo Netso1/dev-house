@@ -1,5 +1,26 @@
 module.exports = [
   {
+    name: 'Min Chit Thu @ Developed By Netso',
+    description: 'Android Application Developer',
+    url: 'https://play.google.com/store/apps/developer?id=Developed+By+Netso',
+    github: 'Netso1',
+    emoji: '😍',
+    computer: 'linux',
+    phone: 'android',
+    tags: [
+      'Developer',
+      'Full Stack',
+      'Node',
+      'React',
+      'React Native',
+      'Next',
+      'Gatsby',
+      'JavaScript',
+      'Redux',
+      'Mongo',
+    ],
+  },
+{
     name: 'Nay Yaung Lin Lakk',
     description: 'Student, MERN Stack, A Nunchaku Player, started learning web technologies at age 13 :)',
     url: 'https://nayyaung9.github.io',
